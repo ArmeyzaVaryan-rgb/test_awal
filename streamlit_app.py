@@ -13,6 +13,7 @@ st.set_page_config(page_title="Deteksi Komentar Judol", page_icon="🛡️", lay
 
 st.title("🛡️ Sistem Deteksi Komentar Judi Online")
 st.write("Aplikasi untuk mendeteksi apakah suatu komentar di media sosial terindikasi sebagai spam judi online atau tidak.")
+st.write("\nAplikasi ini dibuat oleh Armeyza Varyan sebagai Alat test Machine Learning model logistik regresi")
 st.markdown("---")
 
 # Fungsi preprocessing bawaan Anda (bisa dikembangkan lagi isinya nanti)
